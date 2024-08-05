@@ -1,6 +1,6 @@
 ---
 name: ⭐️ Standard
-about: feature, bug, refactor외의 작업을 위한 템플릿
+about: 그 외 작업을 위한 템플릿
 title: "[ ] : "
 labels: ''
 assignees: ''
