@@ -1,7 +1,7 @@
 ---
 name: ✅ Feature
 about: 기능 구현 요청 템플릿
-title: "[Feat] "
+title: "[Feat] : "
 labels: "feature"
 assignees: ''
 ---
