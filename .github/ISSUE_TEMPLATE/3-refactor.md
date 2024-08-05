@@ -1,12 +1,12 @@
 ---
-name: "Issue: \U0001F48ERefactor"
-about: Refactor 작업 사항을 입력해주세요.
+name: "💎 Refactor"
+about: Refactor 작업 사항 템플릿
 title: '[Refactor] : '
 labels: 'refactor'
 assignees: ''
 ---
 
-## Description
+## 작업 목표
 
 
 ## Before
