@@ -1,0 +1,62 @@
+[
+	{
+		"name": "API",
+		"color": "03021F",
+		"description": "Something related to server API"
+	},
+	{
+		"name": "bug",
+		"color": "d73a4a",
+		"description": "Something isn't working"
+	},
+	{
+		"name": "bugfix",
+		"color": "E99695",
+		"description": "Bug Fixes"
+	},
+	{
+		"name": "cleanup",
+		"color": "FFFFFF",
+		"description": "Uncomment, formatting or something"
+	},
+	{
+		"name": "docs",
+		"color": "C5DEF5",
+		"description": "Improvements or additions to documentation"
+	},
+	{
+		"name": "chore",
+		"color": "cfd3d7",
+		"description": "Changes to the build process or auxiliary tools and libraries"
+	},
+	{
+		"name": "feature",
+		"color": "C3FF23",
+		"description": "New feature or request"
+	},
+	{
+		"name": "question",
+		"color": "F9D0C4",
+		"description": "Further information is requested"
+	},
+	{
+		"name": "refactor",
+		"color": "C2E0C6",
+		"description": "Rewrite the code without changing external behavior"
+	},
+	{
+		"name": "test",
+		"color": "9CDBF6",
+		"description": "Something related to testing"
+	},
+	{
+		"name":"style",
+		"color":"FBCA04",
+		"description":"Modify or make style component"
+	},
+	{
+		"name":"wontfix",
+		"color":"ffffff",
+		"description": "This will not be worked on"
+	}
+]
