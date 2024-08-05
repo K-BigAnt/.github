@@ -2,7 +2,7 @@
 name: ✅ Feature
 about: 기능 구현 요청 템플릿
 title: "[Feat] "
-labels: feature
+labels: "feature"
 assignees: ''
 ---
 <!-- 모든 항목은 가급적 작은 단위로 나누어 작성해주세요.
