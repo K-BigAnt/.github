@@ -2,8 +2,8 @@
 name: 🐞 BUG REPORT
 about: 버그 리포트 템플릿
 title: "[Bug] :  "
-labels: ''
-assignees: 'bug'
+labels: "bug"
+assignees: ''
 
 ---
 
